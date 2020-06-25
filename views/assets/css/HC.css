@@ -1,0 +1,7 @@
+        .containerHC {
+            border: 1px solid #ccc; overflow: scroll; 
+        }
+        .contentHC {
+            background-color: #ccc; width: 250px;
+            white-space: nowrap;
+        }
